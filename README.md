@@ -16,4 +16,4 @@ a Home Assistant card showing how wind-driven rain hits each window of your hous
 Published on HACS.
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/nicol%C3%B2-nardi-5886336a)
+[LinkedIn](https://www.linkedin.com/in/nicolonardi)
